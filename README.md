@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I once saved an entire company’s electricity budget with an IoT solution
 - 
 ## 🧑‍💻 About Me
-Experienced Senior Software Engineer with 8+ years of proven success in backend development, system architecture, and team leadership. Adept in building scalable web applications using Laravel, PHP, Python (Django, FastAPI), and MySQL/PostgreSQL. Recognized for delivering high-quality solutions and driving innovation across cross-functional teams.
+Experienced Senior Software Engineer with 8+ years of proven success in backend development, system architecture, and team leadership. Adept in building scalable web applications using  PHP(Laravel, CodeIgniter), Python (Django, FastAPI, Flask), and MySQL/PostgreSQL. Recognized for delivering high-quality solutions and driving innovation across cross-functional teams.
 
 
 ## 🛠️ Skills
