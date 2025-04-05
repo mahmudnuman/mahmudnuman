@@ -1,8 +1,8 @@
 ## Hi there 👋
 # I am M.H. Numan
 **Senior Software Engineer | Backend Specialist | Laravel & Python Expert**  
-📍 Dhaka, Bangladesh • 📧 [mahmudnuman@gmail.com](mailto:mahmudnuman@gmail.com) • 📱 +8801827211193  
-🔗 [LinkedIn](https://www.linkedin.com/in/mnmozumder) • 🖥️ [GitHub](https://github.com/mahmudnuman)
+📍 Dhaka, Bangladesh • 📧 [mahmudnuman@gmail.com](mailto:mahmudnuman@gmail.com) •
+                     🔗 [LinkedIn](https://www.linkedin.com/in/mnmozumder)
 
 - 🔭 I’m currently working on Machine Learning, LLM
 - 🌱 I’m currently learning frontend development with Vue.js
@@ -30,8 +30,8 @@ Experienced Senior Software Engineer with 8+ years of proven success in backend 
 **B.Sc. in Computer Science & Engineering**  
 Bangladesh University of Business & Technology (BUBT)  
 📅 Graduation Year: [2016]  
-- General Secretary: BUBT IT Club, Cultural Club  
-- Member Secretary: BUBT Alumni Association
+- Member Secretary: BUBT Alumni Association  (2024 - Present)
+- General Secretary: BUBT IT Club, Cultural Club  (2014-2016)
 
 
 ## 🏆 Achievements
